@@ -19,3 +19,11 @@ body {
 h3 {
   color: #038c7f;
 }
+
+@media screen and (max-width: 1393px) {
+  #logo {
+    width: 100%;
+    height: ;
+    margin: 0 auto;
+  }
+}
